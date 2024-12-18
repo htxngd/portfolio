@@ -11,7 +11,7 @@
 
 _Dette repo indeholder alle mine opgaver fra Programmeringsundervisningen._
 
-_Min logbog kan findes på følgende side: (https://htxngd.github.io/portfolio/)._
+_[Min logbog kan findes på følgende side:](https://htxngd.github.io/portfolio/)._
 
 </header>
 
