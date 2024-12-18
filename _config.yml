@@ -1,8 +1,26 @@
 theme: minima
 title: Min Portfolio
 author: Nanna
-markdown: GFM
 
+
+# Markdown and syntax highlight
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: "highlight"
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+
+# Plug-ins
+plugins:
+  - jekyll-archives
+  - jekyll-link-attributes
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
@@ -22,7 +40,4 @@ jekyll-archives:
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
-# Plug-ins
-plugins:
-  - jekyll-archives
-  - jekyll-link-attributes
+
