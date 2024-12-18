@@ -7,9 +7,11 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Portfolio/Logbog
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Dette repo indeholder alle mine opgaver fra Programmeringsundervisningen._
+
+_Min logbog kan findes på følgende side: (https://htxngd.github.io/portfolio/)._
 
 </header>
 
